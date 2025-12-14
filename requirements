@@ -1,0 +1,2 @@
+!pip install --upgrade torch torchvision torchaudio transformers
+!pip install datasets transformers scikit-learn torch pandas
